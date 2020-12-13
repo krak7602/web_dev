@@ -1,2 +1,2 @@
 # web_dev
-Just learning web-development
+Learning web-development
